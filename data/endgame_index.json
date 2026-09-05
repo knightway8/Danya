@@ -1,0 +1,427 @@
+{
+  "checked_on": "2026-09-04",
+  "source_file": "The_Practical_Endgame_2014-2020.pdf",
+  "page_numbering": "one-based PDF pages",
+  "columns": [
+    {
+      "title": "Blazing A Path",
+      "issue": "2014-06",
+      "pdf_page_start": 1,
+      "pdf_page_end": 2
+    },
+    {
+      "title": "Knight Endings",
+      "issue": "2014-07",
+      "pdf_page_start": 3,
+      "pdf_page_end": 4
+    },
+    {
+      "title": "Courage versus Caution",
+      "issue": "2014-08",
+      "pdf_page_start": 5,
+      "pdf_page_end": 6
+    },
+    {
+      "title": "An Endgame “Selfie”",
+      "issue": "2014-09",
+      "pdf_page_start": 7,
+      "pdf_page_end": 8
+    },
+    {
+      "title": "The Fighting OCBs",
+      "issue": "2014-10",
+      "pdf_page_start": 9,
+      "pdf_page_end": 10
+    },
+    {
+      "title": "The Moment of Truth: Rook Endings",
+      "issue": "2014-11",
+      "pdf_page_start": 11,
+      "pdf_page_end": 12
+    },
+    {
+      "title": "Channeling Karpov",
+      "issue": "2014-12",
+      "pdf_page_start": 13,
+      "pdf_page_end": 14
+    },
+    {
+      "title": "Rook versus Bishop",
+      "issue": "2015-01",
+      "pdf_page_start": 15,
+      "pdf_page_end": 16
+    },
+    {
+      "title": "The Heart of a Devil",
+      "issue": "2015-02",
+      "pdf_page_start": 17,
+      "pdf_page_end": 18
+    },
+    {
+      "title": "Fasten Your Seatbelts",
+      "issue": "2015-03",
+      "pdf_page_start": 19,
+      "pdf_page_end": 20
+    },
+    {
+      "title": "Fighting Tooth-and-Nail",
+      "issue": "2015-04",
+      "pdf_page_start": 21,
+      "pdf_page_end": 22
+    },
+    {
+      "title": "A World Turned Upside Down",
+      "issue": "2015-05",
+      "pdf_page_start": 23,
+      "pdf_page_end": 24
+    },
+    {
+      "title": "Ego Trip",
+      "issue": "2015-06",
+      "pdf_page_start": 25,
+      "pdf_page_end": 26
+    },
+    {
+      "title": "Mistakes: The Best Way to Learn",
+      "issue": "2015-07",
+      "pdf_page_start": 27,
+      "pdf_page_end": 28
+    },
+    {
+      "title": "An Old-School Brawl",
+      "issue": "2015-08",
+      "pdf_page_start": 29,
+      "pdf_page_end": 30
+    },
+    {
+      "title": "Remembering GM Walter Browne",
+      "issue": "2015-09",
+      "pdf_page_start": 31,
+      "pdf_page_end": 32
+    },
+    {
+      "title": "Never Say Never",
+      "issue": "2015-10",
+      "pdf_page_start": 33,
+      "pdf_page_end": 34
+    },
+    {
+      "title": "The Art of Liquidation",
+      "issue": "2015-11",
+      "pdf_page_start": 35,
+      "pdf_page_end": 36
+    },
+    {
+      "title": "Hanging by a Thread",
+      "issue": "2015-12",
+      "pdf_page_start": 37,
+      "pdf_page_end": 38
+    },
+    {
+      "title": "Keeping a Clear Head",
+      "issue": "2016-01",
+      "pdf_page_start": 39,
+      "pdf_page_end": 40
+    },
+    {
+      "title": "A Tale of Two Passed Pawns",
+      "issue": "2016-02",
+      "pdf_page_start": 41,
+      "pdf_page_end": 42
+    },
+    {
+      "title": "Of Knights and Men",
+      "issue": "2016-03",
+      "pdf_page_start": 43,
+      "pdf_page_end": 44
+    },
+    {
+      "title": "Dirty Rotten Trades",
+      "issue": "2016-04",
+      "pdf_page_start": 45,
+      "pdf_page_end": 46
+    },
+    {
+      "title": "(Un)Perpetual Check",
+      "issue": "2016-05",
+      "pdf_page_start": 47,
+      "pdf_page_end": 48
+    },
+    {
+      "title": "False Friends",
+      "issue": "2016-06",
+      "pdf_page_start": 49,
+      "pdf_page_end": 50
+    },
+    {
+      "title": "A Comedy of Lessons",
+      "issue": "2016-07",
+      "pdf_page_start": 51,
+      "pdf_page_end": 52
+    },
+    {
+      "title": "In Search of Perfection",
+      "issue": "2016-08",
+      "pdf_page_start": 53,
+      "pdf_page_end": 54
+    },
+    {
+      "title": "Happy Birthday, Chess Life!",
+      "issue": "2016-09",
+      "pdf_page_start": 55,
+      "pdf_page_end": 56
+    },
+    {
+      "title": "No Pain, No ~~Gain~~ Draw",
+      "issue": "2016-10",
+      "pdf_page_start": 57,
+      "pdf_page_end": 58
+    },
+    {
+      "title": "Going Against the Flow",
+      "issue": "2016-11",
+      "pdf_page_start": 59,
+      "pdf_page_end": 60
+    },
+    {
+      "title": "Stoicism",
+      "issue": "2016-12",
+      "pdf_page_start": 61,
+      "pdf_page_end": 62
+    },
+    {
+      "title": "How Magnus Does It",
+      "issue": "2017-01",
+      "pdf_page_start": 63,
+      "pdf_page_end": 64
+    },
+    {
+      "title": "Framing",
+      "issue": "2017-02",
+      "pdf_page_start": 65,
+      "pdf_page_end": 66
+    },
+    {
+      "title": "Safe and Secure",
+      "issue": "2017-03",
+      "pdf_page_start": 67,
+      "pdf_page_end": 68
+    },
+    {
+      "title": "Blood From a Stone",
+      "issue": "2017-04",
+      "pdf_page_start": 69,
+      "pdf_page_end": 70
+    },
+    {
+      "title": "No Fortress for Old Men",
+      "issue": "2017-05",
+      "pdf_page_start": 71,
+      "pdf_page_end": 72
+    },
+    {
+      "title": "Logical Illogicality",
+      "issue": "2017-06",
+      "pdf_page_start": 73,
+      "pdf_page_end": 74
+    },
+    {
+      "title": "A Work of Art",
+      "issue": "2017-07",
+      "pdf_page_start": 75,
+      "pdf_page_end": 76
+    },
+    {
+      "title": "The Power of Desperation",
+      "issue": "2017-08",
+      "pdf_page_start": 77,
+      "pdf_page_end": 78
+    },
+    {
+      "title": "“Endgame”: A Play in One Act",
+      "issue": "2017-09",
+      "pdf_page_start": 79,
+      "pdf_page_end": 80
+    },
+    {
+      "title": "Cliffhanger! Part I",
+      "issue": "2017-10",
+      "pdf_page_start": 81,
+      "pdf_page_end": 82
+    },
+    {
+      "title": "Cliffhanger! The Conclusion",
+      "issue": "2017-11",
+      "pdf_page_start": 83,
+      "pdf_page_end": 84
+    },
+    {
+      "title": "A Heartwarming Narrative",
+      "issue": "2017-12",
+      "pdf_page_start": 85,
+      "pdf_page_end": 86
+    },
+    {
+      "title": "Lombardy’s Endgame Skills",
+      "issue": "2018-01",
+      "pdf_page_start": 87,
+      "pdf_page_end": 88
+    },
+    {
+      "title": "The Power of Simplicity",
+      "issue": "2018-02",
+      "pdf_page_start": 89,
+      "pdf_page_end": 90
+    },
+    {
+      "title": "Move of the Year, Endgame Edition",
+      "issue": "2018-03",
+      "pdf_page_start": 91,
+      "pdf_page_end": 92
+    },
+    {
+      "title": "A Mouthwatering Affair",
+      "issue": "2018-04",
+      "pdf_page_start": 93,
+      "pdf_page_end": 94
+    },
+    {
+      "title": "What Am I Missing?",
+      "issue": "2018-05",
+      "pdf_page_start": 95,
+      "pdf_page_end": 96
+    },
+    {
+      "title": "The Devil is in the Detail",
+      "issue": "2018-06",
+      "pdf_page_start": 97,
+      "pdf_page_end": 98
+    },
+    {
+      "title": "The U.S. Championship Effect",
+      "issue": "2018-07",
+      "pdf_page_start": 99,
+      "pdf_page_end": 100
+    },
+    {
+      "title": "The Ambushing Tactic",
+      "issue": "2018-08",
+      "pdf_page_start": 101,
+      "pdf_page_end": 102
+    },
+    {
+      "title": "Concrete Calculations",
+      "issue": "2018-09",
+      "pdf_page_start": 103,
+      "pdf_page_end": 104
+    },
+    {
+      "title": "How to Write an Endgame Thriller",
+      "issue": "2018-10",
+      "pdf_page_start": 105,
+      "pdf_page_end": 106
+    },
+    {
+      "title": "False Narratives",
+      "issue": "2018-11",
+      "pdf_page_start": 107,
+      "pdf_page_end": 108
+    },
+    {
+      "title": "The Olympiad Express",
+      "issue": "2018-12",
+      "pdf_page_start": 109,
+      "pdf_page_end": 110
+    },
+    {
+      "title": "Chess GPS",
+      "issue": "2019-01",
+      "pdf_page_start": 111,
+      "pdf_page_end": 112
+    },
+    {
+      "title": "Procrastinate at Your Own Risk",
+      "issue": "2019-02",
+      "pdf_page_start": 113,
+      "pdf_page_end": 114
+    },
+    {
+      "title": "Computer Moves",
+      "issue": "2019-03",
+      "pdf_page_start": 115,
+      "pdf_page_end": 116
+    },
+    {
+      "title": "Process of (Un)elimination",
+      "issue": "2019-04",
+      "pdf_page_start": 117,
+      "pdf_page_end": 118
+    },
+    {
+      "title": "To the Ladies",
+      "issue": "2019-05",
+      "pdf_page_start": 119,
+      "pdf_page_end": 120
+    },
+    {
+      "title": "What Am I Missing?",
+      "issue": "2019-06",
+      "pdf_page_start": 121,
+      "pdf_page_end": 122
+    },
+    {
+      "title": "Typical Magnus?",
+      "issue": "2019-07",
+      "pdf_page_start": 123,
+      "pdf_page_end": 124
+    },
+    {
+      "title": "Bad but Beautiful",
+      "issue": "2019-08",
+      "pdf_page_start": 125,
+      "pdf_page_end": 126
+    },
+    {
+      "title": "Simplicity and Complexity",
+      "issue": "2019-09",
+      "pdf_page_start": 127,
+      "pdf_page_end": 128
+    },
+    {
+      "title": "Calculation Fatigue",
+      "issue": "2019-10",
+      "pdf_page_start": 129,
+      "pdf_page_end": 130
+    },
+    {
+      "title": "The Endgame Terminator",
+      "issue": "2019-11",
+      "pdf_page_start": 131,
+      "pdf_page_end": 132
+    },
+    {
+      "title": "False Narratives",
+      "issue": "2019-12",
+      "pdf_page_start": 133,
+      "pdf_page_end": 134
+    },
+    {
+      "title": "The Goalkeeper’s Glory",
+      "issue": "2020-01",
+      "pdf_page_start": 135,
+      "pdf_page_end": 136
+    },
+    {
+      "title": "Decoding the “Zen”",
+      "issue": "2020-02",
+      "pdf_page_start": 137,
+      "pdf_page_end": 138
+    },
+    {
+      "title": "Are All Rook Endgames Drawn?",
+      "issue": "2020-03",
+      "pdf_page_start": 139,
+      "pdf_page_end": 140
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "checked_on": "2026-09-04",
+  "pdfs": [
+    {
+      "file": "9313.pdf",
+      "source_url": "https://www.newinchess.com/media/wysiwyg/product_pdf/9313.pdf",
+      "pages": 25,
+      "sha256": "2520339bb88216b20769401d370a5c41e61cb9e901e3a1017dc879997321baf9",
+      "checked_on": "2026-09-04",
+      "verification": "Byte-identical to publisher-hosted file"
+    },
+    {
+      "file": "9315.pdf",
+      "source_url": "https://www.newinchess.com/media/wysiwyg/product_pdf/9315.pdf",
+      "pages": 15,
+      "sha256": "26c9b3838ca483c247f6254a046c898a8023922ef5185c8aeed578b1e7af2452",
+      "checked_on": "2026-09-04",
+      "verification": "Byte-identical to publisher-hosted file"
+    },
+    {
+      "file": "9317.pdf",
+      "source_url": "https://www.newinchess.com/media/wysiwyg/product_pdf/9317.pdf",
+      "pages": 18,
+      "sha256": "3c873709f6bfefad50b52b42b17312f774a34e27e75854f402dc4fb71a4cc055",
+      "checked_on": "2026-09-04",
+      "verification": "Byte-identical to publisher-hosted file"
+    },
+    {
+      "file": "The_Practical_Endgame_2014-2020.pdf",
+      "source_url": "https://uscf1-nyc1.aodhosting.com/CL-AND-CR-ALL/CL-ALL/naroditsky/The_Practical_Endgame_2014-2020.pdf",
+      "pages": 140,
+      "sha256": "7140b9732147b237f70dd35e6223d8e0bbc53acf55dfca3fc42431d34bdeba6b",
+      "checked_on": "2026-09-04",
+      "verification": "Byte-identical to publisher-hosted file"
+    },
+    {
+      "file": "PDFs/US_Chess_Danya_Memorial_2025.pdf",
+      "source_url": "https://new.uschess.org/sites/default/files/media/documents/cl_12-2025_danya_lowres.pdf",
+      "publisher_page": "https://new.uschess.org/news/inside-story-daniel-naroditsky-1995-2025",
+      "retrieved_on": "2026-09-04",
+      "http_status": 200,
+      "final_url": "https://new.uschess.org/sites/default/files/media/documents/cl_12-2025_danya_lowres.pdf",
+      "pages": 33,
+      "bytes": 4087135,
+      "sha256": "cc7ea5df4e6dbd094b4f2691cf5ce47af61c2fdcae25b815d4611cc79f333015",
+      "type": "Publisher-provided memorial PDF; writing and annotations by multiple contributors, not solely Daniel Naroditsky",
+      "modifications": "None"
+    }
+  ]
+}
