@@ -1,7 +1,9 @@
 # Rest easy, King.
 
 
-<img width="990" height="1290" alt="canvas" src="https://github.com/user-attachments/assets/51b506d2-4eb1-4c2c-8c35-a1672658ac58" />
+<img width="990" height="1290" alt="December 2025 Chess Life cover featuring Daniel Naroditsky" src="./canvas.png" />
+
+*Cover: Chess Life, December 2025, US Chess. [Publisher source and caption](./Links/README.md#l004).*
 
 
 ---
@@ -16,104 +18,40 @@ This repository is a small, noncommercial tribute. It gathers publicly available
 
 **Rest easy, King. Your words, games, warmth, and love of chess continue to teach.**
 
-## Repository contents
+## Read his writing offline: PDFs
 
-| File | What it contains |
+The [PDF library](./PDF_LIBRARY.md) is the home for locally preserved publications. These files remain readable if their source links disappear.
+
+| Saved publication | Local copy |
 | --- | --- |
-| [`README.md`](./README.md) | This tribute and guide to the repository. |
-| [`canvas.png`](./canvas.png) | The memorial image file stored in the repository. |
-| [`The_Practical_Endgame_2014-2020.pdf`](./The_Practical_Endgame_2014-2020.pdf) | An official US Chess collection of Danya’s *The Practical Endgame* columns from *Chess Life*, covering his work from 2014 through 2020. |
-| [`9313.pdf`](./9313.pdf) | A 25-page official publisher sample of the revised and updated 2026 edition of *Mastering Positional Chess*. |
-| [`9315.pdf`](./9315.pdf) | A 15-page official publisher sample of the revised and updated 2026 edition of *Mastering Complex Endgames*. |
-| [`9317.pdf`](./9317.pdf) | An 18-page official publisher sample of the 2026 book *Mastering Practical Endgames*, a thematic collection drawn from Danya’s endgame writing for *Chess Life* and Chess.com. |
-| [`Danya_Chesscom_Archive_Downloads.zip`](./Danya_Chesscom_Archive_Downloads.zip?raw=1) | An organized package of shortcuts and catalogs leading to Danya’s official Chess.com articles, video lessons, selected broadcasts, and highlights. |
+| The Practical Endgame: 70 columns by Danya | [Read the 140-page collection](./The_Practical_Endgame_2014-2020.pdf) · [Column index](./PRACTICAL_ENDGAME_INDEX.md) |
+| Mastering Positional Chess, revised 2026 edition | [25-page publisher sample](./9313.pdf) |
+| Mastering Complex Endgames, revised 2026 edition | [15-page publisher sample](./9315.pdf) |
+| Mastering Practical Endgames, posthumous 2026 collection | [18-page publisher sample](./9317.pdf) |
 
-> **Please note:** `9313.pdf`, `9315.pdf`, and `9317.pdf` are sample PDFs, not the complete commercial books.
+The three book files are **samples, not complete books**. Later forewords and editorial revisions are credited separately in [Sources and verification](./SOURCES_AND_VERIFICATION.md#books-and-editions).
 
-## What is inside the Chess.com archive ZIP
+### Memorial and other contributors
 
-The ZIP contains **113 catalog entries**:
+[US Chess's December 2025 memorial PDF](./PDFs/US_Chess_Danya_Memorial_2025.pdf) is also saved locally. It includes other writers' recollections and annotations, with their original credits preserved.
 
-- **99** links to Danya’s Chess.com articles.
-- **6** video-lesson links: one link to the complete 2019 *How to Be Lucky in Chess* series and five links to the individual lessons.
-- **7** selected commentary-broadcast or highlight links.
-- **1** link to Chess.com’s permanent Daniel Naroditsky archive page.
+## Online resources: links may change or disappear
 
-After extraction, the main folder is named `Danya_Chesscom_Archive_Package`. It contains:
+All human-readable external resource links are collected in the [online resources area](./Links/README.md), alongside the [Chess.com catalog instructions](./Links/USING_THE_CATALOG.md).
 
-| File or folder inside the ZIP | Purpose |
-| --- | --- |
-| `START_HERE_Danya_Chesscom_Archive.html` | The easiest way to use the package. It opens a searchable catalog in a web browser. |
-| `01_Articles/` | Ninety-nine individual Windows `.url` shortcuts to official Chess.com articles. |
-| `02_Video_Lessons/` | Six shortcuts for the complete *How to Be Lucky in Chess* series and its five lessons. |
-| `03_Broadcasts_and_Highlights/` | Seven shortcuts to selected broadcasts, commentary, and highlight material. |
-| `Danya_Chesscom_Archive_Catalog.xlsx` | A spreadsheet that can be sorted and filtered in Microsoft Excel, LibreOffice Calc, or another compatible program. |
-| `Danya_Chesscom_Archive_Catalog.csv` | A plain-text version of the catalog for spreadsheet programs, databases, and scripts. |
-| `Danya_Chesscom_Browser_Bookmarks.html` | A bookmarks file that can be imported into Chrome, Edge, Firefox, and many other browsers. |
-| `Open_Official_Chesscom_Archive.url` | A Windows shortcut to Chess.com’s permanent archive page. |
-| `README_FIRST.txt` | A short quick-start guide included in the package. |
-| `MANIFEST.txt` | A simple summary of the package and its entry counts. |
+**An online link is not a preserved copy.** Hosts can change addresses, remove material, or change access requirements. The combined checks cover 162 distinct web destinations: 161 returned HTTP 200, and one older interview blocked the direct automated check but was readable through the web reader. No removed page was confirmed; playback remains unverified for 29 YouTube destinations. See the [September 4, 2026 link report](./Links/LINK_CHECK_REPORT.md).
 
-## Download, unzip, and use the archive
+## Start studying
 
-### 1. Download the ZIP
+- [Studying with Danya](./STUDY_GUIDE.md): teachings supported by his own writing, with a suggested way to study them.
+- [Additional teachings and PDF sources](./ADDITIONAL_TEACHINGS.md): three forewords, three earlier annotated games, and two further reading sources, with exact credits and reuse status.
+- [Official video lessons](./VIDEO_LESSONS.md): his 18-video endgame playlist and further playlists on his own channel.
+- [The Practical Endgame index](./PRACTICAL_ENDGAME_INDEX.md): all 70 columns, with issue dates and PDF page links.
+- [Study-note template](./STUDY_NOTES_TEMPLATE.md): a place to record your own attempts, mistakes, and lessons.
+- [Sources and verification](./SOURCES_AND_VERIFICATION.md): what was checked on September 4, 2026, and what remains uncertain.
+- [Contributing](./CONTRIBUTING.md): how to add material with careful attribution.
 
-Use this link:
-
-**[Download `Danya_Chesscom_Archive_Downloads.zip`](./Danya_Chesscom_Archive_Downloads.zip?raw=1)**
-
-You can also open the ZIP file on GitHub and select **Download raw file**.
-
-### 2. Extract the ZIP
-
-#### Windows
-
-1. Open your **Downloads** folder.
-2. Right-click `Danya_Chesscom_Archive_Downloads.zip`.
-3. Select **Extract All**.
-4. Choose a destination folder and select **Extract**.
-
-#### macOS
-
-1. Open your **Downloads** folder.
-2. Double-click `Danya_Chesscom_Archive_Downloads.zip`.
-3. macOS will create the extracted folder beside the ZIP file.
-
-#### Linux
-
-Use your file manager’s **Extract Here** option, or run:
-
-```bash
-unzip Danya_Chesscom_Archive_Downloads.zip
-```
-
-### 3. Open the searchable catalog
-
-1. Open the extracted `Danya_Chesscom_Archive_Package` folder.
-2. Double-click `START_HERE_Danya_Chesscom_Archive.html`.
-3. Your normal web browser will open the catalog.
-4. Use the search box and category filters to find articles, lessons, broadcasts, or topics such as endgames, tactics, sacrifices, blunders, time management, Petrosian, Carlsen, and more.
-5. Select an entry to open the official page in your browser.
-
-### Other ways to use the package
-
-- **Windows shortcuts:** Open one of the three numbered folders and double-click any `.url` file.
-- **Browser bookmarks:** Import `Danya_Chesscom_Browser_Bookmarks.html` using your browser’s bookmark manager.
-- **Spreadsheet catalog:** Open the `.xlsx` or `.csv` catalog to sort, filter, search, or make personal study notes.
-- **macOS and Linux:** Because `.url` shortcuts are mainly a Windows format, the searchable HTML catalog, bookmarks file, or spreadsheet is the most reliable option.
-
-## Important: this is a link catalog, not an offline copy
-
-The ZIP does **not** contain copied Chess.com article text or downloaded video and broadcast files. It contains organized links, browser bookmarks, spreadsheets, and shortcuts. An internet connection is therefore required.
-
-Chess.com, YouTube, and other original hosts control availability, account requirements, membership requirements, and any future URL changes. A link may stop working if its official source moves or removes the material.
-
-## Official archive
-
-The package was organized from Chess.com’s permanent collection:
-
-- [Daniel Naroditsky’s Articles, Videos, and Commentary on Chess.com](https://www.chess.com/article/view/naroditsky-chess-articles-videos-commentary)
-- [US Chess tribute: *Danya 1995–2025*](https://new.uschess.org/sites/default/files/media/documents/cl_12-2025_danya_lowres.pdf)
+These study guides and indexes are editorial additions to this independent tribute. They are not a curriculum authored or approved by Danya or his family.
 
 ## Rights and attribution
 
